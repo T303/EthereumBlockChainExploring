@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.3",
+    "readline-promise": "^1.0.5"
+  },
+  "name": "nodefetchexample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
